@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+    color: #C9C9C9;
+}
+
+.header-custom {
+    background-color: #4267B2 ; 
+}
+
+.header-custom .navbar-brand,
+.header-custom .nav-link {
+    color: white; 
+}
+
+.footer-custom {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #4267B2;
+    color: white;
+    padding: 20px;
+}
+
+
+.footer-custom h2,
+.footer-custom p {
+    color: white; 
+}
